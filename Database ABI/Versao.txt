@@ -1,0 +1,20 @@
+﻿0.0.1
+
+Base de dados construída e atualizada com os atributos da Season 5.
+
+Munições atualizadas:
+- 7N37
+- SNB
+- 7BT1
+
+Armas atualizadas:
+- Mosin
+- SVTU
+- M110
+- M24
+- AR-57
+- ZC807
+- SG550
+- AN-94
+- T191
+- AUG
