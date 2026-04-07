@@ -17,7 +17,10 @@ A pasta `Database ABI` contém arquivos cobrindo mais de 19 categorias de itens 
 * **Equipamento de Proteção:** Capacetes, Coletes Balísticos, Rigs Blindados, Máscaras e Fones de Ouvido.
 * **Armazenamento:** Mochilas e Rigs Táticos sem blindagem.
 * **Saúde & Suprimentos:** Kits Médicos, Kits Cirúrgicos, Analgésicos, Bandagens, Estimulantes, Nebulizadores, Comidas e Bebidas.
-* **Tabelas de Relacionamento:** Regras de compatibilidade (ex: quais máscaras cabem em quais capacetes).
+* **Tabelas de Relacionamento:** Regras de compatibilidade.
+
+🛑 **AVISO IMPORTANTE: NÃO APAGUE O ARQUIVO `Versao.txt`!**
+Este arquivo vem dentro da pasta e contém o número da versão atual. O seu aplicativo ABIDB precisa dele exclusivamente para verificar se existem novas atualizações no GitHub. Se ele for removido ou modificado incorretamente, o seu sistema de atualização mostrará um erro de "Versão Não Encontrada".
 
 ## 🛠️ Como Instalar / Atualizar
 
