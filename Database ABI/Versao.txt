@@ -1,6 +1,6 @@
 ﻿0.0.3
 
-Base de dados construída e atualizada com base da atualização do dia 03 de maio de 2026.
+Base de dados construída e atualizada com base da atualização do dia 03 de julho de 2026.
 
 Armas atualizadas:
 - U191
