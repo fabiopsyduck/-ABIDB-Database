@@ -1,8 +1,0 @@
-﻿0.0.2
-
-Base de dados construída e atualizada com base da atualização do dia 08 de maio de 2026.
-
-Armas atualizadas:
-- U191
-- T191
-- T192
