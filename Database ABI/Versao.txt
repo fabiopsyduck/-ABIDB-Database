@@ -1,0 +1,28 @@
+﻿0.0.3
+
+Base de dados construída e atualizada com base da atualização do dia 03 de maio de 2026.
+
+Armas atualizadas:
+- U191
+- T191
+- T192
+- VSS
+
+Armas adicionadas:
+- T88
+- Banshee
+
+Munições atualizadas:
+- M855A1
+
+Munições adicionadas:
+- APWC
+- Dragon's Breath
+- M855A2
+
+Atualização de armas com base em testes à mão que são dados corretos, mas que o jogo mostra valores diferentes da realidade:
+- Vector 9 (Nota: No menu do armeiro mostra 25 Metros mas na realidade é 34 Metros)
+- Vector 45 (Nota: No menu do armeiro mostra 25 Metros mas na realidade é 31 Metros)
+- SA85M (Nota: No menu do armeiro mostra 54 Metros mas na realidade é 53 Metros)
+
+Novidade! Agora o banco de dados possui um novo arquivo chamado "DamageRange.csv", que contém todos os dados relacionados ao alcance de dano de armas mínimas e máximas.
