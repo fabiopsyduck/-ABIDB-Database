@@ -9,5 +9,3 @@ Atualização de armas com base em testes à mão que são dados corretos, mas q
 - Vector 9 (Nota: No menu do armeiro mostra 25 Metros mas na realidade é 34 Metros)
 - Vector 45 (Nota: No menu do armeiro mostra 25 Metros mas na realidade é 31 Metros)
 - SA85M (Nota: No menu do armeiro mostra 54 Metros mas na realidade é 53 Metros)
-
-Novidade! Agora o banco de dados possui um novo arquivo chamado "DamageRange.csv", que contém todos os dados relacionados ao alcance de dano de armas mínimas e máximas.
