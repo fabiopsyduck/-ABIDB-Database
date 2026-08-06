@@ -36,7 +36,7 @@
 "MDR";"ASSAULT RIFLE";"5.56x45mm";"75";"25";"66";"42";"74";"51";"960";"Semi, Full";"700";"High";"FB D+";"58"
 "Mini14";"CARBINE";"5.56x45mm";"72";"52";"60";"70";"55";"67";"990";"Semi";"400";"High";"FB D+";"67"
 "Mk14";"MARKSMAN RIFLE";"7.62x51mm";"57";"54";"59";"69";"48";"55";"853";"Semi, Full";"700";"Mid-High";"R+";"54"
-"ML Lever-Action";"MARKSMAN RIFLE";".44";"37";"29";"62";"86";"85";"64";"457";"Semi";"75";"Medium";"FB";"65"
+"ML Lever-Action";"MARKSMAN RIFLE";".44";"37";"29";"62";"86";"85";"64";"457";"Semi";"75";"Medium";"Default +";"65"
 "Mosin";"BOLT-ACTION RIFLE";"7.62x54mm";"9";"12";"22";"87";"10";"100";"830";"Bolt-Action";"28";"Low";"R+";"64"
 "MP 40";"SUBMACHINE GUN";"9x19mm";"68";"42";"65";"17";"61";"28";"400";"Full";"500";"Mid-High";"FB D+";"40"
 "MP-133";"SHOTGUN";"12x70mm";"7";"6";"47";"5";"51";"11";"337";"Pump-Action";"60";"Medium";"D+ R+";"41"
