@@ -1,24 +1,9 @@
-﻿0.0.3
+﻿0.0.4
 
-Base de dados construída e atualizada com base da atualização do dia 03 de julho de 2026.
+Base de dados construída e atualizada com base da atualização do dia 05 de agosto de 2026.
 
 Armas atualizadas:
-- U191
-- T191
-- T192
-- VSS
-
-Armas adicionadas:
-- T88
-- Banshee
-
-Munições atualizadas:
-- M855A1
-
-Munições adicionadas:
-- APWC
-- Dragon's Breath
-- M855A2
+- ML Lever-Action
 
 Atualização de armas com base em testes à mão que são dados corretos, mas que o jogo mostra valores diferentes da realidade:
 - Vector 9 (Nota: No menu do armeiro mostra 25 Metros mas na realidade é 34 Metros)
