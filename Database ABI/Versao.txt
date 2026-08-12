@@ -6,6 +6,8 @@ Armas atualizadas:
 - t05
 - T54
 - CZ 52
+- MP5
+- T03
 
 Atualização de armas com base em testes à mão que são dados corretos, mas que o jogo mostra valores diferentes da realidade:
 - Vector 9 (Nota: No menu do armeiro mostra 25 Metros mas na realidade é 34 Metros)
