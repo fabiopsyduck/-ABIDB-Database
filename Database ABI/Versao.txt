@@ -1,9 +1,11 @@
-﻿0.0.4
+0.0.5
 
-Base de dados construída e atualizada com base da atualização do dia 05 de agosto de 2026.
+Base de dados construída e atualizada com base da atualização do dia 11 de agosto de 2026.
 
 Armas atualizadas:
-- ML Lever-Action
+- t05
+- T54
+- CZ 52
 
 Atualização de armas com base em testes à mão que são dados corretos, mas que o jogo mostra valores diferentes da realidade:
 - Vector 9 (Nota: No menu do armeiro mostra 25 Metros mas na realidade é 34 Metros)
